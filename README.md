@@ -10,7 +10,7 @@ clone the project from the repository and run in the browser
  1. Javascript
  1. Bootstrap
  ## live site
- [click here]()
+ [click here](https://alphine3900.github.io/Amazing-Ghananian-Naming-Website/)
 ## license
 
 Copyright (c) [2021] [Alphine mutwiri kirimi]
